@@ -25,6 +25,9 @@
             "files": [
                 "tinymce/*"
             ]
+        },
+        "branch-alias": {
+            "dev-master": "master"
         }
     }
 }
