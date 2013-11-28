@@ -1,0 +1,13 @@
+{
+    "name": "tinymce",
+    "version": "4.0.*",
+    "description": "tinymce component",
+    "keywords": [
+        "tinymce",
+        "rich text editor"
+    ],
+    "scripts": [
+        "tinymce/jquery.tinymce.js"
+    ],
+    "license": "LGPL"
+}

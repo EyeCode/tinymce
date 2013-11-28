@@ -1,0 +1,30 @@
+{
+    "name": "components/tinymce",
+    "description": "TinyMCE Rich Text Editor",
+    "type": "component",
+    "homepage": "http://www.tinymce.com/‎",
+    "license": "LGPL",
+    "support": {
+        "issues": "http://www.tinymce.com/develop/bugtracker.php",
+        "source": "https://github.com/tinymce/tinymce"
+    },
+    "authors": [
+        {
+            "name": "Johan Sörlin",
+            "email": "spocke@moxiecode.com"
+        }
+    ],
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "tinymce/jquery.tinymce.js"
+            ],
+            "files": [
+                "tinymce/*",
+            ]
+        }
+    }
+}
