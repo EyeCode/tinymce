@@ -23,7 +23,7 @@
                 "tinymce/jquery.tinymce.js"
             ],
             "files": [
-                "tinymce/*",
+                "tinymce/*"
             ]
         }
     }
