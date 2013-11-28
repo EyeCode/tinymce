@@ -1,0 +1,4 @@
+tinymce
+=======
+
+Component TinyMce
