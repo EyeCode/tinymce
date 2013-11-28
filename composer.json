@@ -1,5 +1,5 @@
 {
-    "name": "components/tinymce",
+    "name": "eyecode/tinymce",
     "description": "TinyMCE Rich Text Editor",
     "type": "component",
     "homepage": "http://www.tinymce.com/‎",
@@ -25,9 +25,6 @@
             "files": [
                 "tinymce/*"
             ]
-        },
-        "branch-alias": {
-            "dev-master": "master"
         }
     }
 }
